@@ -22,7 +22,7 @@
     "@angular/router": "~11.2.14",
     "@ng-bootstrap/ng-bootstrap": "^9.1.2",
     "@ng-select/ng-select": "^7.0.0",
-    "bootstrap": "^4.5.0",
+    "bootstrap": "^4.6.2",
     "file-saver": "^2.0.5",
     "ng2-pdf-viewer": "^6.3.2",
     "ngx-bootstrap": "^6.2.0",
