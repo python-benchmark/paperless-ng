@@ -86,7 +86,7 @@ sortedcontainers==2.4.0
 sqlparse==0.4.1; python_version >= '3.5'
 threadpoolctl==2.2.0; python_version >= '3.6'
 tika==1.24
-tqdm==4.62.1
+tqdm==4.66.3
 twisted[tls]==21.7.0; python_full_version >= '3.6.7'
 txaio==21.2.1; python_version >= '3.6'
 typing-extensions==3.10.0.0
