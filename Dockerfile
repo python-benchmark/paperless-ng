@@ -8,7 +8,7 @@ RUN git clone https://github.com/agl/jbig2enc .
 RUN ./autogen.sh
 RUN ./configure && make
 
-FROM python:3.9-slim-bullseye
+FROM python:3.12.7-slim-bullseye
 
 # Binary dependencies
 RUN apt-get update \
